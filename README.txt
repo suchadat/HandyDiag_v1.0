@@ -33,7 +33,7 @@ Email: suchadat@g.swu.ac.th
 
 ## Workflow Overview
 
-The analysis pipeline consists of three main stages: data preprocessing and feature extraction, feature consolidation, and machine learning model development and evaluation.
+The analysis pipeline consists of two main stages: data preprocessing and feature extraction, and machine learning model development and evaluation.
 
 ### 1. Data Preprocessing and Feature Extraction
 
@@ -43,17 +43,7 @@ The primary script `MainExtractionFeature_ML.m` performs data preprocessing and 
 * `extract_lines_feature.m`
 * `extract_letters_feature.m`
 
-### 2. Feature Consolidation
-
-Features extracted from individual handwriting tasks are merged and labeled using the following scripts:
-
-* `mergeMatFile_spiral_addClassType.m`
-* `mergeMatFile_VI_addClassType.m`
-* `mergeMatFile_HI_addClassType.m`
-* `mergeMatFile_letter_addClassType.m`
-* `mergeMatFile_sentence_addClassType.m`
-
-### 3. Feature Selection, Model Training, and Evaluation
+### 2. Feature Selection, Model Training, and Evaluation
 
 Feature selection using Neighborhood Component Analysis (NCA), followed by model training and evaluation, is performed using:
 
