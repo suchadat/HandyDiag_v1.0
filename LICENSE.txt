@@ -1,0 +1,15 @@
+HandyDiag Academic Research License
+
+Copyright (c) 2026 Suchada Tantisatirapong
+
+Permission is granted to use, reproduce, and modify the HandyDiag source code and dataset for non-commercial research and educational purposes only.
+
+Users of this software or dataset are requested to cite the following publication:
+
+Chanwimalueang T, Methawasin K, Saetee P, Rueangrong T, Rung-ruang B, Tantisatirapong S.
+Digital Thai Handwriting for Parkinson's Disease Screening.
+Scientific Reports, 2026.
+
+Commercial use, redistribution for commercial purposes, incorporation into commercial products, or provision of commercial services using this software or dataset is prohibited without prior written permission from the copyright holder.
+
+THE SOFTWARE AND DATASET ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
